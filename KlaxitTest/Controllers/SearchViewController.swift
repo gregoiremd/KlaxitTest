@@ -74,6 +74,7 @@ extension SearchViewController: UITableViewDataSource, UITableViewDelegate {
             delegate.returnSelectedAddress(label: self.viewModel.addresses.value[indexPath.row].label)
         }
         self.navigationController?.popViewController(animated: true)
+        dismiss(animated: false)
     }
 }
 
