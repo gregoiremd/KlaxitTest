@@ -7,7 +7,6 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		A360413327EE1F6E00D9C559 /* Test.swift in Sources */ = {isa = PBXBuildFile; fileRef = A360413227EE1F6E00D9C559 /* Test.swift */; };
 		A39BA71727EB23D0005AD5A3 /* AddressProvider.swift in Sources */ = {isa = PBXBuildFile; fileRef = A39BA71627EB23D0005AD5A3 /* AddressProvider.swift */; };
 		A39BA71927EB27BE005AD5A3 /* SearchViewModel.swift in Sources */ = {isa = PBXBuildFile; fileRef = A39BA71827EB27BE005AD5A3 /* SearchViewModel.swift */; };
 		A39BA71F27EB2FB8005AD5A3 /* AddressCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = A39BA71E27EB2FB8005AD5A3 /* AddressCell.swift */; };
@@ -48,7 +47,6 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		A360413227EE1F6E00D9C559 /* Test.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Test.swift; sourceTree = "<group>"; };
 		A39BA71627EB23D0005AD5A3 /* AddressProvider.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressProvider.swift; sourceTree = "<group>"; };
 		A39BA71827EB27BE005AD5A3 /* SearchViewModel.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SearchViewModel.swift; sourceTree = "<group>"; };
 		A39BA71E27EB2FB8005AD5A3 /* AddressCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AddressCell.swift; sourceTree = "<group>"; };
@@ -203,7 +201,6 @@
 			children = (
 				A39DA51F27E8DB63002A9252 /* UserViewController.swift */,
 				A3E923EB27EA02AD00B35C2F /* SearchViewController.swift */,
-				A360413227EE1F6E00D9C559 /* Test.swift */,
 			);
 			path = Controllers;
 			sourceTree = "<group>";
@@ -379,7 +376,6 @@
 				A39BA71727EB23D0005AD5A3 /* AddressProvider.swift in Sources */,
 				A3E923F627EA0B4A00B35C2F /* UserViewModel.swift in Sources */,
 				A3E923F327EA0AF400B35C2F /* Box.swift in Sources */,
-				A360413327EE1F6E00D9C559 /* Test.swift in Sources */,
 				A3E923EC27EA02AD00B35C2F /* SearchViewController.swift in Sources */,
 				A39DA52027E8DB63002A9252 /* UserViewController.swift in Sources */,
 				A39DA51C27E8DB63002A9252 /* AppDelegate.swift in Sources */,
