@@ -1,0 +1,14 @@
+/* 
+ Localizable.strings
+ KlaxitTest
+ 
+ Created by Grégoire Marchand on 23/03/2022.
+ 
+ */
+
+"phoneNumberLabel" = "Numéro de téléphone";
+"professionLabel" = "Profession";
+"companyLabel" = "Entreprise";
+"addressLabel" = "Adresse du domicile";
+"validate" = "Valider";
+"cancel" = "Annuler";

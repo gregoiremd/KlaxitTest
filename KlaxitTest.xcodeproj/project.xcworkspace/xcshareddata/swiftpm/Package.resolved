@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "hanekeswift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/Haneke/HanekeSwift.git",
+      "state" : {
+        "branch" : "master",
+        "revision" : "a2e8e5b9a91eef90138a4f43c9a0044c4e90a6ef"
+      }
+    }
+  ],
+  "version" : 2
+}
